@@ -1,0 +1,40 @@
+.our-works {
+	@extend %list;
+	margin-top: -3rem;
+	margin-left: -1.5rem;
+	margin-right: -1.5rem;
+	&__item {
+		margin-top: 3rem;
+		margin-right: 1.5rem;
+		margin-left: 1.5rem;
+	}
+	&__link {
+		position: relative;
+		display: block;
+		text-decoration: none;
+		color: $font-light-color;
+		font-size: 1.4rem;
+		line-height: 1.1429;
+		letter-spacing: 0.03em;
+		overflow: visible;
+		&:hover &-text,
+		&:focus &-text {
+			transform: translateY(0);
+		}
+		&-text {
+			text-transform: uppercase;
+			font-size: 14px;
+			line-height: 1.1429;
+			text-align: Center;
+			letter-spacing: 0.03em;
+			color: #ffffff;
+			width: 100%;
+			height: 7rem;
+			background: rgba(47, 48, 58, 0.8);
+			bottom: 0;
+			right: 0;
+			position: absolute;
+			padding: 27px 90px;
+		}
+	}
+}

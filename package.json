@@ -1,0 +1,25 @@
+{
+  "name": "goit-markup-hw-07",
+  "version": "1.0.0",
+  "description": "https://lukasz-sklad.github.io/goit-markup-hw-07/",
+  "main": "index.js",
+  "scripts": {
+    "hw07": "parcel index.html --no-cache",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukasz-sklad/goit-markup-hw-07.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukasz-sklad/goit-markup-hw-07/issues"
+  },
+  "homepage": "https://github.com/lukasz-sklad/goit-markup-hw-07#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2",
+    "parcel": "^2.8.2"
+  }
+}
