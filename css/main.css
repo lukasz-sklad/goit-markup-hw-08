@@ -509,7 +509,6 @@ address {
   letter-spacing: 0.02em;
   color: #757575;
 }
-
 .contacts__link {
   -webkit-transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -518,7 +517,6 @@ address {
   color: #2196f3;
   fill: currentColor;
 }
-
 @media screen and (min-width: 75rem) {
   .contacts--header {
     -webkit-box-orient: horizontal;
@@ -530,7 +528,6 @@ address {
             align-items: center;
   }
 }
-
 .contacts__item--header {
   margin-bottom: 0;
 }
@@ -548,7 +545,6 @@ address {
     margin-right: 3rem;
   }
 }
-
 .contacts__item--footer {
   font-size: 1.4rem;
   line-height: 1.71;
@@ -644,7 +640,6 @@ address {
     line-height: 1.176;
   }
 }
-
 .mobile-contacts__link {
   text-decoration: none;
   color: #757575;
@@ -654,7 +649,6 @@ address {
 .mobile-contacts__link--active, .mobile-contacts__link:hover, .mobile-contacts__link:focus {
   color: #2196f3;
 }
-
 .mobile-contacts__item:not(:last-child) {
   margin-bottom: 3.2rem;
 }
@@ -681,7 +675,6 @@ address {
     text-align: left;
   }
 }
-
 .mobile-socials__item {
   margin-bottom: 1rem;
 }
@@ -703,7 +696,6 @@ address {
     position: relative;
   }
 }
-
 .mobile-socials__link {
   text-decoration: none;
   color: inherit;
@@ -719,20 +711,16 @@ address {
     padding-bottom: 9.4rem;
   }
 }
-
 .page-section__our-works {
   padding-bottom: 9.4rem;
 }
-
 .page-section--dark {
   background-color: #2f303a;
   color: #ffffff;
 }
-
 .page-section--darker {
   background-color: #f5f4fa;
 }
-
 .page-section__title {
   margin-top: 0;
   margin-bottom: 3rem;
@@ -803,7 +791,6 @@ address {
     background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero/hero-our-company_1600x600@2x.jpg);
   }
 }
-
 .page-section__hero-title {
   max-width: 36rem;
   margin-top: 0;
@@ -841,7 +828,6 @@ address {
     margin-left: -1.5rem;
   }
 }
-
 @media screen and (max-width: 47.9375rem) {
   .peculiarities__item {
     max-width: 45rem;
@@ -873,7 +859,6 @@ address {
     margin-left: 1.5rem;
   }
 }
-
 .peculiarities__icon-card {
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
@@ -881,7 +866,6 @@ address {
   background-color: #f5f4fa;
   color: #2196f3;
 }
-
 .peculiarities__icon {
   display: block;
   margin-left: auto;
@@ -889,12 +873,10 @@ address {
   width: 7rem;
   height: 7rem;
 }
-
 .peculiarities__info {
   padding-top: 3rem;
   font-family: "Roboto", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-
 .peculiarities__title {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -911,7 +893,6 @@ address {
     text-align: left;
   }
 }
-
 .peculiarities__description {
   margin-top: 0;
   margin-bottom: 0;
@@ -993,7 +974,6 @@ address {
     margin-right: -1.5rem;
   }
 }
-
 @media screen and (max-width: 47.9375rem) {
   .our-team__item {
     max-width: 45rem;
@@ -1032,7 +1012,6 @@ address {
           box-shadow: 0rem 0.1rem 0.3rem rgba(0, 0, 0, 0.12), 0rem 0.1rem 0.1rem rgba(0, 0, 0, 0.14), 0rem 0.2rem 0.1rem rgba(0, 0, 0, 0.2);
   border-radius: 0rem 0rem 0.4rem 0.4rem;
 }
-
 .team-member__info {
   padding-top: 3rem;
   padding-bottom: 2.4rem;
@@ -1041,7 +1020,6 @@ address {
   letter-spacing: 0.03em;
   font-family: "Roboto", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-
 .team-member__name {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -1049,13 +1027,11 @@ address {
   color: #212121;
   font-weight: 500;
 }
-
 .team-member__position {
   margin-top: 0;
   margin-bottom: 1.6rem;
   text-align: center;
 }
-
 .team-member-socials {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1064,7 +1040,6 @@ address {
       -ms-flex-pack: center;
           justify-content: center;
 }
-
 .team-member-socials__item + .team-member-socials__item {
   margin-left: 1rem;
 }
@@ -1080,7 +1055,6 @@ address {
   margin-bottom: -1.5rem;
   margin-left: -1.5rem;
 }
-
 .clients__item {
   -ms-flex-preferred-size: calc(50% - 6rem);
       flex-basis: calc(50% - 6rem);
@@ -1106,7 +1080,6 @@ address {
         flex-basis: calc((100% - 18rem) / 6);
   }
 }
-
 .clients__link {
   display: block;
   padding-top: 1.5rem;
@@ -1188,7 +1161,6 @@ address {
   font-family: "Roboto", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   letter-spacing: 0.03em;
 }
-
 .portfolio-nav {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1213,7 +1185,6 @@ address {
     margin-bottom: 4.25rem;
   }
 }
-
 .portfolio-nav__list-item {
   display: inline-block;
   margin-top: 0.75rem;
@@ -1238,7 +1209,6 @@ address {
     margin-right: -1.5rem;
   }
 }
-
 .project-cards__item {
   border-bottom: 0.1rem solid #eeeeee;
   border-left: 0.1rem solid #eeeeee;
@@ -1293,12 +1263,10 @@ address {
 .card {
   text-align: left;
 }
-
 .card__img-wrapper {
   position: relative;
   overflow: hidden;
 }
-
 .card__overflow {
   position: absolute;
   top: 100%;
@@ -1325,7 +1293,6 @@ address {
   -webkit-transform: translateY(-100%);
           transform: translateY(-100%);
 }
-
 .card__info-wrapper {
   line-height: 1.15;
   color: #212121;

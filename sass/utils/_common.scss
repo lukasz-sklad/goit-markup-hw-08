@@ -2,50 +2,42 @@ html {
   font-family: $main-font-family;
   font-size: 62.5%;
 }
-
 body {
   position: relative;
   font-size: $main-font-size;
   line-height: 1.714;
   color: $font-main-color;
 }
-
 img {
   display: block;
   max-width: 100%;
   height: auto;
 }
-
 address {
   font-style: inherit;
 }
-
 %svg {
   display: inline-block;
   vertical-align: middle;
   text-align: center;
 }
-
 %container {
   max-width: 100%;
   margin: 0 auto;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
 }
-
 %list {
   list-style: none;
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 0;
 }
-
 %link {
   display: inline-block;
   text-decoration: none;
   color: inherit;
 }
-
 %button {
   text-align: center;
   vertical-align: middle;
@@ -56,4 +48,3 @@ address {
   text-transform: none;
   background: transparent;
 }
-
