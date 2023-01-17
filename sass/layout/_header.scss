@@ -9,10 +9,8 @@
     @media screen and (max-width: 47.9375rem) {
         display: none;
     }
-
     display: flex;
     flex-grow: 1;
-
 }
 .nav {
     @extend %list;

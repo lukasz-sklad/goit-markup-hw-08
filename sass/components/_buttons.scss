@@ -15,10 +15,8 @@
                 &__primary {
                     line-height: 1.87;
                     color: $font-light-color;
-                
                     background-color: $font-accent-color;
                     border-radius: 0.4rem;
-                
                     &:hover,
                     &:focus {
                         background: $font-accent-color-dark;
@@ -27,10 +25,8 @@
                 }
                 &__secondary {
                     color: $font-accent-secondary-color;
-                
                     background-color: $background-light-color;
                     border-radius: 0.4rem;
-                
                     &:hover,
                     &:focus {
                         color: $font-light-color;
