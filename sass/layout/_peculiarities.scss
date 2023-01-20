@@ -26,13 +26,12 @@
 			margin-bottom: 1.5rem;
 			margin-left: 1.5rem;
 		}
-    // icon poprawka
 		@media screen and (min-width: 75rem) {
-		  flex-basis: calc((100% - 8 * 1.5rem)/4);
-		  margin-top: 1.5rem;
-		  margin-right: 1.5rem;
-		  margin-bottom: 1.5rem;
-		  margin-left: 1.5rem;
+			flex-basis: calc((100% - 8 * 1.5rem) / 4);
+			margin-top: 1.5rem;
+			margin-right: 1.5rem;
+			margin-bottom: 1.5rem;
+			margin-left: 1.5rem;
 		}
 	}
 	&__icon-card {
