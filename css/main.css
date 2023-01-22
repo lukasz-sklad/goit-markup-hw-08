@@ -825,8 +825,8 @@ address {
 }
 @media screen and (min-width: 48rem) {
   .peculiarities__item {
-    -ms-flex-preferred-size: calc(50% - 6rem);
-        flex-basis: calc(50% - 6rem);
+    -ms-flex-preferred-size: calc(50% - 3rem);
+        flex-basis: calc(50% - 3rem);
     max-width: 35.4rem;
     margin-top: 1.5rem;
     margin-right: 1.5rem;
